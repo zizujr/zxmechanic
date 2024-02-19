@@ -1,5 +1,5 @@
 # zxmechanic Menu UI Script for esx
-by zxcoder (marioszizujr)
+by zxcoder (zizujr)
 ## Overview
 This script provides a mechanic menu UI for players on FiveM servers running the ESX framework. It allows players to access mechanic-related functionalities such as vehicle repair and modifications through an intuitive menu interface. zxmechanic only works with society money!
 
@@ -31,4 +31,4 @@ This script provides a mechanic menu UI for players on FiveM servers running the
 
 
 ## Support
-For support or inquiries, please contact [marioszizujr](https://github.com/marioszizujr).
+For support or inquiries, please contact [zizujr](https://github.com/zizujr).
