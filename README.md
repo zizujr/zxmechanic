@@ -7,7 +7,7 @@ This script provides a mechanic menu UI for players on FiveM servers running the
 - **Mechanic Menu UI**: Players can access modifications through a user-friendly menu interface.
 - **Vehicle Repair**: Players can repair their vehicles using the mechanic menu.
 
-## Installation
+## Installation (You should only need everything inside zxmechanic.zip)
 1. Make sure you have an ESX server set up for FiveM.
 2. Clone this repository into your resources folder.
 3. Add `start zxmechanic` to your `server.cfg` file.
